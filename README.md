@@ -12,6 +12,9 @@ This dataset helps us understand:
 
 Insights from this dataset can help improve decision-making around increasing customer engagement, maximizing profits, and enhancing product development.
 
+## Adidas sale performance dashboard
+![Dashboard](https://github.com/Oyelakin95/Adidas-sales-dataset-2020-2021/blob/main/Screenshot%20(13).png)
+
 ---
 
 ## Objective
@@ -146,5 +149,7 @@ Allocate resources to boost underperforming regions
 Dataset: Kaggle - Adidas Sales Dataset
 
 Tools: Microsoft Excel (Pivot Tables, Charts, Slicers)
+## Technical Report
+**[view comprehensive technical report](https://medium.com/@oyelakinemmanueloluwaseyi)**
 
 
